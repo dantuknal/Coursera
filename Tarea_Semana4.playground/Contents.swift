@@ -25,13 +25,13 @@ class Auto {                                    //Declaro la clase Auto
         
     }
     
-    func cambioDeVelocidad( ) ->  ( actual: Int, velocidadEnCadena: String){    //Declaro función
+    func cambioDeVelocidad( ) ->  ( actual: Int, velocidadEnCadena: String){    //Declaro función cambioDeVelocidad
 
         var velocidadEnCadena : String
         var actual : Int
         
         velocidadEnCadena=String(velocidad)     //asigno el valor actual de velocidad en string
-        actual = self.velocidad.rawValue        //asigno el valo Int actual a una var temporal
+        actual = self.velocidad.rawValue        //asigno el valor Int actual a una variable temporal
         
         switch self.velocidad.rawValue{         //Cambio el valor actual segun las instrucciones:
         case 0:
