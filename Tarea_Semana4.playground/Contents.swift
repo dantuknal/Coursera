@@ -21,6 +21,7 @@ class Auto {                                    //Declaro la clase Auto
     
     init(){                                     //Inicializo la clase en Apagado
         
+        //self.velocidad = Velocidades(velocidadInicial: .Apagado)
         self.velocidad = .Apagado
         
     }
