@@ -1,6 +1,6 @@
-##Coursera - Tarea Semana 4##
+##Coursera - Tarea Semana 5##
 El archivo del playground con el código para revisar esta semana se encuentra en: 
-"Tarea_Semana4.playground/Contents.swift"
+"Hamburguesas/..."
 
 ###Review Criteria###
 1. ¿El playground se encuentra en GitHub?
